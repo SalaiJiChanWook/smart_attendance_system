@@ -1,0 +1,16 @@
+numpy
+opencv-python-headless
+scikit-learn
+keras-facenet
+tensorflow
+pandas
+openpyxl
+gspread
+oauth2client
+python-dotenv
+django
+djangorestframework
+django-cors-headers
+sounddevice
+gTTS
+pygame
